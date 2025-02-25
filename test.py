@@ -1,1 +1,1 @@
-pri("Wassup Buddy!! v19")
+print("Wassup Buddy!! v19")
